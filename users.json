@@ -1,0 +1,11 @@
+{
+    "users": {
+        "test2227": {
+            "salt": "34a0110de6b843676b2d61071c6e623b",
+            "hash": "5c6dd109594c343c5051e47fe83a03b1e01c8cdc4c633be77e4cb991e5d18d07",
+            "failed_attempts": 0,
+            "lock_time": 0
+        }
+    },
+    "_signature": "61ec5286e74dbe7572e07df1719711dc357c320764d522c741e5340fe94e0fb9"
+}

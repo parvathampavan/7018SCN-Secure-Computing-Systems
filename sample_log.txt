@@ -1,0 +1,7 @@
+Jan 15 10:30:00 sshd[1000]: Failed password for admin from 203.0.113.50 port 22 ssh2
+Jan 15 10:30:10 sshd[1000]: Failed password for admin from 203.0.113.50 port 22 ssh2
+Jan 15 10:30:20 sshd[1000]: Failed password for admin from 203.0.113.50 port 22 ssh2
+Jan 15 10:30:30 sshd[1000]: Failed password for admin from 203.0.113.50 port 22 ssh2
+Jan 15 10:35:00 sshd[1000]: Accepted password for admin from 203.0.113.50 port 22 ssh2
+Jan 15 11:00:00 sshd[1000]: Failed password for root from 198.51.100.10 port 22 ssh2
+3

@@ -1,0 +1,18 @@
+[
+    {
+        "ip": "203.0.113.50",
+        "failed_attempts": 4,
+        "burst_attempts": 4,
+        "successful_login": true,
+        "attack_type": "Brute Force Attack",
+        "risk_level": "HIGH"
+    },
+    {
+        "ip": "198.51.100.10",
+        "failed_attempts": 1,
+        "burst_attempts": 1,
+        "successful_login": false,
+        "attack_type": "Normal Behaviour",
+        "risk_level": "LOW"
+    }
+]
